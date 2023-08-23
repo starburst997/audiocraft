@@ -60,3 +60,7 @@ dataset/*
 /notebooks
 /local_scripts
 /notes
+
+cache
+cache_hf
+cache_xdg
